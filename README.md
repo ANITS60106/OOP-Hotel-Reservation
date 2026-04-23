@@ -61,32 +61,32 @@ HotelFlow — это обновлённая full-stack система брони
 Endpoint: `GET /api/dashboard/reports/`
 
 ## Team Members List
-- Ray Tama
-- Member 2
-- Member 3
+- Ulanbekov Ramazan
+- Turarov Zhandar
+- Kyrmanchieva Aidai
 
 ## Roles of Group Members
-- Ray Tama — backend refactor, frontend redesign, documentation, integration
-- Member 2 — database filling, testing, screenshots, demo preparation
-- Member 3 — presentation, UML polishing, QA section preparation
+- Ulanbekov Ramazan — backend refactor, frontend redesign, documentation, integration
+- Turarov Zhandar - database filling, testing, screenshots, demo preparation
+- Kyrmanchieva Aidai — presentation, UML polishing, QA section preparation
 
-## Contributors
-- Ray Tama
-- Member 2
-- Member 3
 
 ## Screenshots
 ### Home
 ![Home](docs/screenshots/home.png)
+<img width="1780" height="892" alt="image" src="https://github.com/user-attachments/assets/15b44b32-b034-4b5d-82c8-faea1cf47a46" />
 
 ### Rooms
 ![Rooms](docs/screenshots/rooms.png)
+<img width="1537" height="562" alt="image" src="https://github.com/user-attachments/assets/28367e5f-a952-47c8-ad29-df9bbcd54204" />
 
 ### Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
+<img width="1501" height="813" alt="image" src="https://github.com/user-attachments/assets/2071e2c0-05b9-4870-83bf-f3155a0f77da" />
 
 ## UML Class Diagram
 [docs/UML.md](docs/UML.md)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e8c523d7-fc7e-4329-b1cf-5015c3f9281b" />
 
 ## Weekly Meeting Documentation
 [docs/weekly-meetings.md](docs/weekly-meetings.md)
@@ -130,8 +130,6 @@ npm run dev
 - Frontend: `http://127.0.0.1:5173/`
 - Admin panel: `http://127.0.0.1:8000/admin/`
 
-## Важный момент про GitHub
-Из проекта убраны старые git-следы, чтобы ты залил это в новый чистый репозиторий. Commit history нужно будет уже сделать после загрузки проекта на GitHub, потому что честно запихнуть новый history внутрь zip нельзя.
 
 ## Media links
 - UML: [docs/UML.md](docs/UML.md)
